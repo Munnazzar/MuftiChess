@@ -1,0 +1,22 @@
+r n q q k q q r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N Q Q K Q Q R
+
+initital UCI : rnqqkqqr/pppppppp/8/8/8/8/PPPPPPPP/RNQQKQQR w KQkq - 0 1
+
+
+r b q q k q q r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R B Q Q K Q Q R
+
+initital UCI : rbqqkqqr/pppppppp/8/8/8/8/PPPPPPPP/RBQQKQQR w KQkq - 0 1
